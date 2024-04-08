@@ -1,26 +1,20 @@
-# Welcome to My GitHub Profile 👋
+# Rahul Dahal
 
 ## About Me
+I am a passionate software engineer with a strong foundation in JavaScript and extensive experience in both frontend and backend development. My journey in software development began in 2018, and since then, I have been dedicated to continuously learning and evolving in this ever-changing field.
 
-I'm a software engineer with a journey that began in 2018, exploring the vast landscape of JavaScript and its tools. My expertise spans both browser-side development, server-side operations, and networking, with a focus on Node.js and Bun. I have a knack for diving deep into the stack tree to identify and troubleshoot issues effectively.
+## Technologies
+- **Backend:** Node.js, Nest.js, PostgreSQL, MongoDB, Redis
+- **DevOps:** AWS, Docker, Github Actions
+- **Frontend:** Next.js, TailwindCSS
+- **JavaScript Ecosystem:** I am deeply familiar with the JavaScript ecosystem and its associated tools, allowing me to architect scalable solutions and leverage best practices in software development.
 
-In addition to my technical prowess, I have a comprehensive understanding of networking, protocols, and security, adding an extra layer to my skill set. I'm not just limited to JavaScript; I also know C and C++ programming languages, enhancing my versatility in approaching software development challenges.
+## Experience
+I have transitioned from primarily focusing on front-end development to actively seeking opportunities to design and implement robust back-end solutions. This shift has equipped me with a comprehensive understanding of the entire software development lifecycle.
 
-## Technical Toolbox
+## What I'm Looking For
+I am excited about the opportunity to contribute to innovative projects and collaborate with talented professionals. I thrive in environments that encourage learning and growth, and I am eager to bring my expertise to a team that shares my passion for pushing the boundaries of technology.
 
-- **Languages**: JavaScript with types, C, Python, C++
-- **Frontend Development**: React.js, Next.js, Vue.js
-- **Backend Development**: Node.js with vanilla Express.js, NestJS framework
-- **Databases**: MongoDB, MySQL, PostgreSQL
-
-## Professional Experience
-
-With over a year of professional experience, I've contributed to the development of real-world applications. In frontend development, I'm well-versed in technologies like React.js, Next.js, and Vue.js. On the backend, I've successfully employed Node.js with Express.js, creating robust and scalable solutions. My database expertise extends to MongoDB, MySQL, and PostgreSQL, ensuring a well-rounded approach to web development.
-
-## Current Project
-
-My current project involves implementing Microservices architecture in the development of a lightweight version of the [Veda App](https://veda-app.com/). This solitary endeavor allows me to showcase my dedication and capability to manage projects independently.
-
-Feel free to explore my repositories to get a glimpse of my coding journey and the projects I've worked on. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and build amazing things together! 🚀
-
-### [Connect on LinkedIn](https://www.linkedin.com/in/rahuldahal/)
+## Contact Me
+- **Facebook:** https://facebook.com/rdaahal
+- **LinkedIn:** https://linkedin.com/in/rahuldahal
